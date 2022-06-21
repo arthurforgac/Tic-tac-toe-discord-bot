@@ -13,6 +13,7 @@ To set up the bot create a Discord application over on https://discord.com/devel
 5. Back in the application interface, click on "Bot" in the sidebar
 6. Customize your bot to your liking and hit the "Reset token" button
 7. Replace the "TOKEN_GOES_HERE" string at the bottom of commands.py file with the new token
+8. Run the commands.py script - the bot sould come online and should be working
 
-##Description
+## Description
 This is a simple Discord bot, which plays text-based tic-tac-toe.
